@@ -13,7 +13,7 @@ export default defineConfig({
   ],
   server: {
     host: '0.0.0.0',  // 允许公网访问
-    port: 5173,       // 默认端口
+    port: 3001,       // 默认端口
   },
   build: {
     // 打包输出到项目根目录的 static 文件夹
